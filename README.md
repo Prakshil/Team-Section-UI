@@ -36,3 +36,4 @@ This project is a modern, responsive team section for a company website. It feat
 ---
 
 This UI is ideal for company websites, portfolios, or any project that needs a clean and modern team showcase.
+made with ❤️ by Prakshil Patel . All rights reserved.

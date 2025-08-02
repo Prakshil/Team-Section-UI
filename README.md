@@ -1,7 +1,6 @@
 # Team Section UI
 
-This project is a modern, responsive team section for a company website. It features a clean layout with individual team member cards, each displaying a photo, name, position, and a short description, along with a contact button. Below the team section, there is a stats area highlighting company achievements.
-
+This project is a modern, responsive team section for a company website. It features a clean layout with individual team member cards, each displaying a photo, name, position, and a short description, along with a contact button. 
 ## Features
 - Responsive design: looks great on desktop and mobile
 - Flexbox layout for easy alignment and wrapping
